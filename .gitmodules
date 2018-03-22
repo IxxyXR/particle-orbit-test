@@ -1,0 +1,6 @@
+[submodule "Assets/ProceduralMotionTrack"]
+	path = Assets/ProceduralMotionTrack
+	url = https://github.com/keijiro/ProceduralMotionTrack.git
+[submodule "Assets/ShurikenPlus"]
+	path = Assets/ShurikenPlus
+	url = https://github.com/keijiro/ShurikenPlus.git
